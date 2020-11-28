@@ -1,5 +1,5 @@
-# Linux-Essentials
 Challenge Lab C: Log File Archiving
+
 1.	Create an archive named log.tar that is stored in the archive directory located in the home directory.
 2.	Remove path names from the files that are archived.
 3.	Produce verbose output while archiving.
